@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
