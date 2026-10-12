@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0912-sort-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
