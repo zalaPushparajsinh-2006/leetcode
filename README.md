@@ -4,5 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
