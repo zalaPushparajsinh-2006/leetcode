@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0860-lemonade-change](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
