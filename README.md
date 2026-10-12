@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
+| [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
