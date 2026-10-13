@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0932-beautiful-array) |
