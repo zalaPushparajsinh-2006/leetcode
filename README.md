@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3537-fill-a-special-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0942-di-string-match) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
