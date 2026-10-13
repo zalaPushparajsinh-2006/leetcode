@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
