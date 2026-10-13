@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
