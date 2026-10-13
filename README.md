@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
