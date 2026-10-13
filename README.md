@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
