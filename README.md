@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0932-beautiful-array) |
@@ -363,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
