@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
