@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
