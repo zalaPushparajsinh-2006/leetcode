@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
