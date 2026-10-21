@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
