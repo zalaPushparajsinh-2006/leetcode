@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0326-power-of-three) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0942-di-string-match) |
