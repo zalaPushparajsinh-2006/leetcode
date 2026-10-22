@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0344-reverse-string) |
