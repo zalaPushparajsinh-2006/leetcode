@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
