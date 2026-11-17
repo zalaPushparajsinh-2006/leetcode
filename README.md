@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0942-di-string-match) |
