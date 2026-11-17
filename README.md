@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
@@ -507,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3745-maximize-expression-of-three-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
