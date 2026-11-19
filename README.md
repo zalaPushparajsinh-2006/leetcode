@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2404-most-frequent-even-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2404-most-frequent-even-element](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
