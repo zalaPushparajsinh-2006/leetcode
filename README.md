@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/1763-longest-nice-substring) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
