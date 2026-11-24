@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0509-fibonacci-number) |
 | [0932-beautiful-array](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/zalaPushparajsinh-2006/leetcode/tree/master/0680-valid-palindrome-ii) |
